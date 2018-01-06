@@ -10,3 +10,5 @@ chmod 666 /dev/rt*
 
 echo 0 > /dev/rtmotoren0
 
+#test
+
